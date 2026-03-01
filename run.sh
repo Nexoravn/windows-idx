@@ -19,7 +19,7 @@ RDP_PORT="3389"
 FLAG_FILE="installed.flag"
 WORKDIR="$HOME/windows-idx"
 
-TAILSCALE_AUTH_KEY="tskey-auth-kuqgxonHZW11CNTRL-6gHFQdmi731V85yMSFJU21K25CcuP5aej"
+TAILSCALE_AUTH_KEY="tskey-auth-kUirAqiNqR11CNTRL-cr555iT5RXFzRkSnx4WjWF4jZV9kRBCbW"
 
 ################
 # CHECK
